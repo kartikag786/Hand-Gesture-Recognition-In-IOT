@@ -13,6 +13,6 @@ In terms of enhancing the project, we can introduce some sensors with the help o
 # Conclusion -
 The practical adaption of the interface solution for speech impaired people is limited by simplicity and usability in practical scenarios. As an easy and practical way to achieve human-computer- interaction, in this solution hand gesture to speech and text conversion has been used to facilitate the reduction of hardware components. On the whole, the solution aims to provide aid to those in need thus ensuring social relevance. The people can easily communicate with each other. The user-friendly nature of the system ensure that people can use it without any difficulty and complexity. The application is cost efficient and eliminates the usage of expensive technology.
 # Team Members -
--> [Varnit Goswami](https://github.com/Electrronix)
--> Divya Maheshwari[https://github.com/divya814/]
+-> [Varnit Goswami](https://github.com/Electrronix)<br/>
+-> [Divya Maheshwari](https://github.com/divya814/)
 # Video Link - https://youtu.be/i9Px1ROZ4dQ
